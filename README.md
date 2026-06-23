@@ -1,2 +1,2 @@
-# MehdiShafiei-Final-Lab-SE
+# SE-Lab-Final-MehdiShafiei
 University Workshop Registration System
